@@ -1,0 +1,24 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHAUDHARYS1/just-tech-news.git"
+  },
+  "author": "Shital Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHAUDHARYS1/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/CHAUDHARYS1/just-tech-news#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
