@@ -9,12 +9,12 @@ const postdata = [
   {
     title: 'Morbi non quam nec dui luctus rutrum.',
     post_url: 'https://nasa.gov/donec.json',
-    user_id: 8
+    user_id: 2
   },
   {
     title: 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.',
     post_url: 'https://europa.eu/parturient/montes/nascetur/ridiculus/mus/etiam/vel.aspx',
-    user_id: 1
+    user_id: 2
   },
   {
     title: 'Nunc purus.',

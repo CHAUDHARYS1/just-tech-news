@@ -1,4 +1,4 @@
-const { response } = require("express");
+// const { response } = require("express");
 
 async function signupFormHandler(event) {
     event.preventDefault();
@@ -44,7 +44,7 @@ async function loginFormHandler(event) {
       });
   
       if (response.ok) {
-        document.location.replace('/');
+        document.location.replace('/dashboard');
       } else {
         alert(response.statusText);
       }
